@@ -22,7 +22,7 @@ async function getNotes() {
 export default async function NotesPage() {
   const notes = await getNotes();
 
-  return(
+  return( 
     <div>
       <h1>Notes</h1>
       <div className={styles.grid}>
