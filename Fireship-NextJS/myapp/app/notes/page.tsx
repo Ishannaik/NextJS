@@ -18,7 +18,7 @@ async function getNotes() {
   const data = await res.json();
   return data?.items as any[];
 }
-
+ 
 export default async function NotesPage() {
   const notes = await getNotes();
 
