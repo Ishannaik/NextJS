@@ -1,0 +1,22 @@
+/* Styling for the ul element with class "ul" */
+.ul {
+  margin-top: 2rem;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem; /* Assuming 'Irem' was meant to be '1rem' */
+  width: 100%;
+}
+
+/* Styling for the li elements within ul with class "ul" */
+.ul li {
+  padding: 1rem; /* Assuming 'Irem' was meant to be '1rem' */
+  width: 100%;
+  max-width: 300px;
+  border-radius: 10px; /* Assuming '1Øpx' was meant to be '10px' */
+  border: 1px solid #2c2c2c; /* Assuming 'lpx' was meant to be '1px' */
+  text-align: center;
+  cursor: pointer;
+}
