@@ -10,6 +10,7 @@ export default function Header() {
           <Link href="/performance">Performance </Link>
           <Link href="/reliability">Reliability </Link>
           <Link href="/scale">Scale </Link>
+          <Link href="/ui">New UI </Link>
         </div>
       </nav>
     </div>
