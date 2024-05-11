@@ -1,7 +1,7 @@
 {
   "name": "primsa",
   "version": "1.0.0",
-  "description": "",
+  "description": "Web dev simplified prisma course",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
