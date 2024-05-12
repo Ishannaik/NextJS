@@ -1,1 +1,1 @@
-Storage of practice code for nextjs
+Storage of practice code for nextjs and prisma
