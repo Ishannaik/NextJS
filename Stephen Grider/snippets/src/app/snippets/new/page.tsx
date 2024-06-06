@@ -13,7 +13,7 @@ export default function SnippetCreatePage() {
     // Create a new record in the database
     const snippet = await db.snippet.create({
       data: {
-        title,
+        title, 
         code,
       },
     });
